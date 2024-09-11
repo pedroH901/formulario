@@ -1,0 +1,21 @@
+.tudo {
+
+text-align: center;
+display: block;    
+border-radius: 10px;
+background-color: brown;
+margin-top: 100px;
+margin-right: 400px;
+margin-left: 400px;
+border-style: solid;
+border-color: black;
+
+}
+
+.titulos {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+
